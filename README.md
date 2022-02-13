@@ -2,7 +2,6 @@
 
 ## Simple calculator api
 
-### To Run:
 #### Navigate to the root directory and run the command:
 `go run calculator.go`
 
